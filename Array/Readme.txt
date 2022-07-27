@@ -1,0 +1,1 @@
+trying to update all the Solution for Array DSA 
